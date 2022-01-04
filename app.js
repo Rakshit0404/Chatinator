@@ -6,5 +6,5 @@ app.get("/",(req,res)=>{
 })
 
 app.listen(8080, ()=>{
-    console.log("listening to 8080");
+    console.log("listening to port: 8080");
 })
